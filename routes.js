@@ -18,7 +18,7 @@ module.exports = function(app){
     app.route('/ubahproduk')
     .put(jsonku.ubahproduk);
 
-    app.route('/ubahproduk')
-    .delete(jsonku.ubahproduk);
+    app.route('/hapusproduk')
+    .delete(jsonku.hapusproduk);
 
    }
