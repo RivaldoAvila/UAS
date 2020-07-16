@@ -1,0 +1,22 @@
+{
+  "name": "uas_web",
+  "version": "1.0.0",
+  "description": "aplikasi uas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RivaldoAvila/UAS.git"
+  },
+  "keywords": [
+    "rivaldo09"
+  ],
+  "author": "rivaldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RivaldoAvila/UAS/issues"
+  },
+  "homepage": "https://github.com/RivaldoAvila/UAS#readme"
+}
