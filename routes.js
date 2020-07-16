@@ -12,4 +12,10 @@ module.exports = function(app){
     app.route('/tampilproduk')
     .get(jsonku.tampilproduk);
 
+    app.route('/tambahproduk')
+    .post(jsonku.tambahproduk);
+
+    app.route('/ubahproduk')
+    .put(jsonku.ubahbarang);
+
    }
